@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #5196a5;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #24527a;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -38,7 +38,8 @@
 
 .profile .profile-image {
     width: 100%;
-    border-radius: 100%;
+    border-radius: 50%;
+    border: 8px solid #1B2631;
 }
 
 .name {
